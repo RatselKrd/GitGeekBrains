@@ -1,3 +1,4 @@
 print ("Hello beautiful World")
 print ("Hello big beautiful World")
 print ("Hello everyone World")
+print ("Hello my dear frends")
